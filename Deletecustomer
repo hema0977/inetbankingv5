@@ -1,0 +1,10 @@
+Class Delete
+
+{
+
+Public static void main(String args[])
+
+{
+System.out.println("delete the custmer);
+
+}}
